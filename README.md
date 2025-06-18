@@ -1,3 +1,11 @@
+# Installation
+    pip install -r requirements.txt
+
+
+# Run
+    uvicorn main:app
+
+
 # Project Flow
 1. Data Preparation
 2. Model Train
