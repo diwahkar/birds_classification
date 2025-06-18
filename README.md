@@ -33,3 +33,8 @@ Current model predicts limited species of bird.
 This model can be trained to classify any images.
 In order to for classification, DATA_ROOT_DIR should contain sub_folders named after label.
 These sub-folders should contain image data34
+
+
+
+# Link to images resources and video demo
+https://drive.google.com/drive/folders/1My2pwsYRM3TtyOATCnbGMYQ5yNuIy8rN
